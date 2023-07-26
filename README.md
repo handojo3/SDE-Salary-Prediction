@@ -1,6 +1,6 @@
 ## Salary Prediction with Machine Learning
 
-This repository contains Python code for predicting salaries based on survey data using machine learning algorithms. The dataset used is "survey_results_public.csv."
+This repository contains Python code for predicting software developer salaries based on survey data using machine learning algorithms. The dataset used is "survey_results_public.csv."
 
 ### Data Preprocessing
 - The dataset is read using `pandas` and relevant columns ("Country," "EdLevel," "YearsCodePro," "Employment," and "ConvertedComp") are extracted.
@@ -28,4 +28,9 @@ This repository contains Python code for predicting salaries based on survey dat
 - The final model is used to predict salaries for a new input (country: "United States," education: "Master’s degree," and experience: 15 years).
 - The trained model and label encoders are saved using `pickle`.
 
-Feel free to explore the code and dataset to understand the salary prediction process and how machine learning models can be applied to real-world datasets.
+### Streamlit Application
+- Hosted Web application on a Python Streamlit Web Application, which contains an Explore Page and a Predictor Page
+- Explore Page contains a pie chart of the various countries, a bar graph showcasing the Mean Salary based on the country, and a line graph of Mean Salary based on the number of years of experience
+- Predict Page contains options to choose a country, education level, and number of years of experience to predict the salary of a Software Developer
+
+Feel free to explore the code and dataset to understand the salary prediction process and how machine learning models can be applied to real-world datasets. If there are ways to improve the model, please feel free to share!
