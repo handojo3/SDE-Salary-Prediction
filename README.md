@@ -33,6 +33,9 @@ This repository contains Python code for predicting software developer salaries 
 - Explore Page contains a pie chart of the various countries, a bar graph showcasing the Mean Salary based on the country, and a line graph of Mean Salary based on the number of years of experience
 - Predict Page contains options to choose a country, education level, and number of years of experience to predict the salary of a Software Developer
 
+![White Board](<img width="1680" alt="predict" src="https://github.com/handojo3/SDE-Salary-Prediction/assets/92761906/3a5b7fa1-8686-4320-bdb2-ed5460e5ba6b">)
+
+
 Feel free to explore the code and dataset to understand the salary prediction process and how machine learning models can be applied to real-world datasets. If there are ways to improve the model, please feel free to share!
 
 Link: http://localhost:8501/
