@@ -34,3 +34,5 @@ This repository contains Python code for predicting software developer salaries 
 - Predict Page contains options to choose a country, education level, and number of years of experience to predict the salary of a Software Developer
 
 Feel free to explore the code and dataset to understand the salary prediction process and how machine learning models can be applied to real-world datasets. If there are ways to improve the model, please feel free to share!
+
+Link: http://localhost:8501/
