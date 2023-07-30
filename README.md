@@ -39,4 +39,3 @@ This repository contains Python code for predicting software developer salaries 
 
 Feel free to explore the code and dataset to understand the salary prediction process and how machine learning models can be applied to real-world datasets. If there are ways to improve the model, please feel free to share!
 
-Link: http://localhost:8501/
